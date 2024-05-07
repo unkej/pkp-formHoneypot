@@ -15,9 +15,9 @@ msgid "plugins.generic.formHoneypot.displayName"
 msgstr "Honeypot-Formular-Plugin"
 
 msgid "plugins.generic.formHoneypot.description"
-msgstr "Das Plugin ergänzt ein Feld zu dem Registrierungsformular und nutzt es als \"Honeypot\"."
-"Das Feld ist für Nutzende nicht sichtbar und gibt einen Fehler aus, wenn ein Bot das Feld ausfüllt."
-"Es kann auch eine Minimal- und Maximalzeit festgelegt werden, um das Registrierungsformular auszufüllen."
+msgstr "Das Plugin ergänzt ein Feld zu dem Registrierungsformular und nutzt es als \"Honeypot\". "
+"Das Feld ist für Nutzende nicht sichtbar und gibt einen Fehler aus, wenn ein Bot das Feld ausfüllt. "
+"Es kann auch eine Minimal- und Maximalzeit festgelegt werden, um das Registrierungsformular auszufüllen. "
 "Zum Beispiel, wenn ein Bot das Formular in unter 2 Sekunden oder das Formular nach 30 Minuten (1800) später wieder ausfüllt, "
 "wird die Registrierung blockiert."
 
